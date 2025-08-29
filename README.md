@@ -62,7 +62,7 @@ I am a computer engineering student, currently halfway through my degree. I am e
 
 <h2>Github stats:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=valentinawerle&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/xluttybtc)
+[![](https://github-readme-stats.vercel.app/api?username=xluttybtc&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/xluttybtc)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=xluttybtc&theme=material-palenight)](https://github.com/xluttybtc)
 </div>
 
